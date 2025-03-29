@@ -23,13 +23,6 @@ Natural language processing (NLP) seeks to endow computers with the ability to i
 At a high level, the instructor hopes for CSE 517 and 447 students to be able to draw the right inferences from what they see in the news (or a press release, or a job talk) about NLP.
 
 
-## 447 vs. 517
-
-The courses are similar in breadth and use the same lecture content.  The projects are quite different; 447’s project is a predefined implementation problem that gives teams freedom in developing a solution.  It is designed to encourage iterative improvement and an understanding of inherent tradeoffs in building an NLP system.  517’s project is more research-oriented; it asks teams to reproduce experiments in recently published NLP papers.  Teams have great flexibility in the choice of a paper to reproduce.
-
-Additionally, there may be differences in the assignments.
-
-
 ## Lectures
 
 You are encouraged to come to live lectures and participate in the discussions.  The instructor may provide notes, voice recordings, and/or transcripts of the lectures.  If there are lecture slides, they'll be shared on the course website.
@@ -47,7 +40,7 @@ Videorecorded lectures from 2021 are provided as a supplementary resource and in
 
 ## Grades
 
-You will be evaluated based on individually completed assignments (50%) and a project completed in a team of three (50%).  Course staff may grant extra credit (up to 5%) to students who actively and meaningfully engage on the course discussion board. 
+You will be evaluated based on individually completed assignments (50%) and a project completed in a team of two or three (50%).  Course staff may grant extra credit (up to 5%) to students who actively and meaningfully engage on the course discussion board. 
 
 ### Assignments
 
@@ -68,11 +61,8 @@ NLP is now being deployed in exciting new settings, e.g., code generation.  In t
 
 ### Project 
 
-Details on the project are given in the instructions document below.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
+Details on the project are given in the [project instructions](project.md) document below.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
 
-- [CSE 447 project instructions](project-447.md)  
-- [CSE 517 project instructions](project-517.md) and [latex template](assets/templates/project-517.tgz)
-- [Individual project updates](https://forms.gle/BGaqPdvNeLB6AnUh8)
 
 ## Computing
 
