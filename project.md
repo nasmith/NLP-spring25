@@ -1,11 +1,11 @@
 ---
 layout: page
-title: CSE 447 Project
+title: Project
 description: >-
-    Project instructions for CSE 447.
+    Project instructions.
 ---
 
-# CSE 447 Project
+# Project
 {:.no_toc}
 
 ## Table of contents
