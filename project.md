@@ -68,9 +68,9 @@ By default, all members of your team will share the same grade, counted out of 5
 - Final writeup:  20 points (6 bonus points possible)
 
 
-## Individual Report
+## If Challenges Arise ...
 
-Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to submit individual updates on your team's progress at any time during the quarter using [this form](https://forms.gle/XMzbD9tkhZ5qEcvS8).  
+Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to reach out to course staff to discuss your team's progress at any time during the quarter using [this form](https://forms.gle/zjz8H9jwWfJq3zHz9).  
 
 ## Data Statement
 
