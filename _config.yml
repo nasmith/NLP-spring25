@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Natural Language Processing
-tagline: CSE 517 and 447 at the University of Washington, Winter 2025
+tagline: CSE P517 at the University of Washington, Spring 2025
 description: A broad course in natural language processing.
 author: Noah Smith
-baseurl: '/NLP-winter25' # the subpath of your site, e.g. /blog
+baseurl: '/NLP-spring25' # the subpath of your site, e.g. /blog
 url: 'https://nasmith.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
