@@ -18,18 +18,17 @@ seo:
 {% endif %}
 
 ## Coordinates
-- Lectures are Mondays and Wednesdays, 2:30pm to 3:50pm, in [Savery]([https://www.washington.edu/classroom/CSE2+G01](https://www.washington.edu/maps/#!/SAV)) 260.
-- Office hours and locations are listed in [this Ed post](https://edstem.org/us/courses/70783/discussion/5948413)
-- Remember that you can always [request an appointment](https://nasmith.github.io/NLP-winter25/followup/) if the scheduled office hours don't work for you.
+- Lectures are Wednesdays, 6:30pm to 9:20pm, in CSE2 G10.
+- Office hours and locations will be posted on Ed.
+- Remember that you can always [request an appointment](followup.md/) if the scheduled office hours don't work for you.
 
 ## Useful Links
 
-- [Ed discussion board](https://edstem.org/us/courses/70783/discussion)
+- [Ed discussion board](https://edstem.org/us/courses/77432/discussion)
   for registered participants 
-- This course's [Canvas page](https://canvas.uw.edu/courses/1782195)
-- [Submit an answer to a live poll during lecture](https://forms.gle/3LhzSSd1hp61TKQN8)
-- [Request a private follow-up from course staff](https://nasmith.github.io/NLP-winter25/followup/) 
-- [Guide to computing infrastructure](https://gist.github.com/rivagore/7b3c0d49209728ebf097cb800391ec88)
+- This course's [Canvas page](https://canvas.uw.edu/courses/1800239)
+- [Request a private follow-up from course staff](followup.mmd) 
+- [Guide to computing infrastructure](https://gist.github.com/rivagore/7b3c0d49209728ebf097cb800391ec88) (current link is from last quarter; info will be similar)
 
 
 
