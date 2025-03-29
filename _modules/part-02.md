@@ -10,5 +10,4 @@ W April 9
 
 W April 16
 : Classification tasks and data ([slides](https://docs.google.com/presentation/d/1kx5h3hoj53ejSby1iVZdeBZpCIkrf81thVQqQbKZY04/edit?usp=sharing))
-  : [Assignment 2](../assets/docs/A2.pdf) posted, due Monday April 28
-  : Read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) 
+  : [Assignment 2](../assets/docs/A2.pdf) posted, due Monday April 28; read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) 
