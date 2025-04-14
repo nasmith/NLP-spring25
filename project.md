@@ -38,7 +38,7 @@ Additional notes:
 
 ## Deliverables and Deadlines
 
-At each checkpoint, you will turn in all source code and an executable program or script. Please sign up for your groups and submit your checkpoints on Canvas. When submitting your project, please follow the instructions and specifications in this [GitHub repo](https://github.com/harshita-chopra/cse447-project/). The checkpoints are as follows; the \textbf{deadlines for each checkpoint are shown on the [course calendar](https://nasmith.github.io/NLP-winter25/calendar/)}.
+At each checkpoint, you will turn in all source code and an executable program or script. Please sign up for your groups and submit your checkpoints on Canvas. When submitting your project, please follow the instructions and specifications in this [GitHub repo](https://github.com/shan2024/cse517p-project). The checkpoints are as follows; the deadlines for each checkpoint are shown on the [course calendar](https://nasmith.github.io/NLP-spring25/calendar/).
 
 
 1. **Around week 4**.
