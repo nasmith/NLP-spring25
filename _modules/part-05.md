@@ -15,12 +15,12 @@ W May 7
 W May 14
 : Attention and transformers ([slides](https://docs.google.com/presentation/d/1lgptlILFobuOLP9NHWHseys5t1Alw4kCGGmX5Kl2IKA/edit?usp=sharing))
   : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf); [Assignment 5](..assets/docs/A5.pdf) posted, due May 26
+: Decoding ([slides](https://docs.google.com/presentation/d/1Et6QLqkXJ2RuWRnqap9UsCcZ7n_jXNDleJLlU1wBtoI/edit?usp=sharing))
+  : Read [J&M 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
   
 W May 21
-: Decoding ([slides](https://docs.google.com/presentation/d/1Et6QLqkXJ2RuWRnqap9UsCcZ7n_jXNDleJLlU1wBtoI/edit?usp=sharing))
-  : Read [J&M 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Assignment 6](../assets/docs/A6.pdf) posted, due June 2;  **Project checkpoint 3**{: .label .label-red } 
 : Scaling up; guest lecture from [Weijia Shi](https://weijiashi.notion.site/) ([slides](../assets/docs/scaling-Weijia-2025-02-26.pdf))
-  : Read [J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
+  : Read [J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf); [Assignment 6](../assets/docs/A6.pdf) posted, due June 2;  **Project checkpoint 3**{: .label .label-red }
 
 
 W May 28
