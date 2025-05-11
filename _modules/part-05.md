@@ -14,7 +14,7 @@ W May 7
 
 W May 14
 : Attention and transformers ([slides](https://docs.google.com/presentation/d/1lgptlILFobuOLP9NHWHseys5t1Alw4kCGGmX5Kl2IKA/edit?usp=sharing))
-  : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf); [Assignment 5](..assets/docs/A5.pdf) posted, due May 26
+  : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf); [Assignment 5](../assets/docs/A5.pdf) posted, due May 26
 : Decoding ([slides](https://docs.google.com/presentation/d/1Et6QLqkXJ2RuWRnqap9UsCcZ7n_jXNDleJLlU1wBtoI/edit?usp=sharing))
   : Read [J&M 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
   
