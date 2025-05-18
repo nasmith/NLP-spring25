@@ -21,10 +21,10 @@ W May 14
 W May 21
 : Scaling up; guest lecture from [Weijia Shi](https://weijiashi.notion.site/) ([slides](../assets/docs/scaling-Weijia-2025-02-26.pdf))
   : Read [J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf); [Assignment 6](../assets/docs/A6.pdf) posted, due June 2;  **Project checkpoint 3**{: .label .label-red }
+: Prompting ([slides](https://docs.google.com/presentation/d/1ZI92PgpOMoeoKreQc8ig2t8tnM2LMg5mIu4SjrmlenY/edit?usp=sharing))
+  : Read [J&M 12.1](https://web.stanford.edu/~jurafsky/slp3/12.pdf) 
 
 
 W May 28
-: Prompting ([slides](https://docs.google.com/presentation/d/1ZI92PgpOMoeoKreQc8ig2t8tnM2LMg5mIu4SjrmlenY/edit?usp=sharing))
-  : Read [J&M 12.1](https://web.stanford.edu/~jurafsky/slp3/12.pdf); 
 : Finetuning, instructions, preferences ([slides](https://docs.google.com/presentation/d/1mfQIgWvRB5ck2AVd9DvNZqa8dRC007Sh5ZBht9qDRaQ/edit?usp=sharing))
   : Read [J&M 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf), and [J&M 14.3](https://web.stanford.edu/~jurafsky/slp3/14.pdf), and optionally [J&M 11.4](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
